@@ -9,3 +9,5 @@ from .vanilla_template import *
 from .openai_memory_template import *
 from .vanilla-ziyu import *
 from .scholar-ziyu import *
+from .hw2_NLP_agent import *
+from .hw2_scholar_agent import *
